@@ -1,0 +1,3 @@
+[submodule "modules/kisstest"]
+	path = modules/kisstest
+	url = git@github.com:alexey-klimov/kisstest.git
